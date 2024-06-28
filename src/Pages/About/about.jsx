@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="relative lg:-mt-72 font-poppins">
       <img src={sky} alt="" />
-      <div className='h-[70vh] bg-aboutBG w-full lg:h-[110vh]'>
+      <div className='h-[80vh] bg-aboutBG w-full lg:h-[110vh]'>
         <div className='flex items-center justify-center gap-10 flex-wrap' id='tentangkami'>
             <img src={child} alt="" className='w-[250px] lg:w-[450px]'/>
             <div className='-mt-10 text-center lg:text-left lg:-mt-28'>

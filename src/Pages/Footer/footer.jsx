@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='h-[120vh] translate-y-[100%] bg-black w-full lg:h-[60vh] text-white flex flex-col justify-between relative lg:translate-y-[0]'>
+    <div className='h-[120vh] translate-y-[110%] bg-black w-full lg:h-[60vh] text-white flex flex-col justify-between relative lg:translate-y-[0]'>
         <div className='space-y-10 flex-col px-4 justify-center text-center items-center flex lg:items-start lg:justify-between pt-24 lg:px-16 flex-wrap lg:flex-row lg:text-start lg:space-y-0'>
             <div className='space-y-2'>
                 <h1 className='font-righteous text-[20px]'>Tentang Kami</h1>
